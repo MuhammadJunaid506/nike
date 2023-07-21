@@ -53,15 +53,4 @@ const Navbar = styled.div`
         text-decoration:underline;
         text-decoration-color:var(--red)
     }
-
-    .btn{
-        align-items:center;
-        padding: 10px;
-        justify-content:center;
-        height:50%;
-        background-color: var(--red);
-        border:none;
-        border-radius:5px;
-        color:white
-    }
 `

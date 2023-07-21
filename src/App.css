@@ -10,3 +10,17 @@
     width: 100%;
     font-family: "Poppins",sans-serif ;
   }
+
+  .btn{
+    align-items:center;
+    padding: 10px;
+    justify-content:center;
+    background-color: #D01C28;
+    border:none;
+    border-radius:5px;
+    color:white
+}
+  .btn:hover{
+    background-color: var(--gray);
+    color:white
+}

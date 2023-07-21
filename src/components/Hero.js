@@ -49,15 +49,7 @@ const MainSection = styled.main`
       display:flex;
       gap:14px
     }
-    .btn{
-        align-items:center;
-        padding: 10px;
-        justify-content:center;
-        background-color: #D01C28;
-        border:none;
-        border-radius:5px;
-        color:white
-    }
+
     .section_right img {
         object-fit:cover;
 
